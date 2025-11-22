@@ -1,6 +1,6 @@
 {
   "name": "muratkocak4040-tam-sayilar-kutuphanesi",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "7. sinif tam sayilar icin basit matematik fonksiyonlari ve puan hesaplama yardimcilari",
   "main": "index.js",
   "scripts": {
