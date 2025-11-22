@@ -1,0 +1,12 @@
+{
+  "name": "muratkocak4040-tam-sayilar-kutuphanesi",
+  "version": "1.0.0",
+  "description": "7. sinif tam sayilar icin basit matematik fonksiyonlari ve puan hesaplama yardimcilari",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["math", "tam sayilar", "7. sinif", "quiz"],
+  "author": "Murat Kocak",
+  "license": "MIT"
+}
